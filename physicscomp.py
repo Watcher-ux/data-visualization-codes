@@ -7,7 +7,7 @@ print(numpy.multiply(a,b))
 print(numpy.divide(a,b))
 print(numpy.dot(a,b))
 
-#from stackoverflow
+
 def dot(s,d):
     return sum(x*y for x,y in zip(s,d))
 s=[1,3,5]
