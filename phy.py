@@ -1,4 +1,4 @@
-#1 
+#1 this is not a plot but rather a matrix multiplication program.
 def cross_product(a,b):
     import numpy as np
     c=np.cross(a,b)
